@@ -2,7 +2,7 @@
 
 ## Name
 
-### RPG Jame with Jest Generator 🤓
+### RPG Game with Jest Generator 🤓
 
 xx
 
